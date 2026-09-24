@@ -1,0 +1,11 @@
+node_modules/
+dist/
+output/
+.playwright-cli/
+.sites-runtime/
+.openai/
+.env
+.env.*
+!.env.example
+*.log
+.DS_Store
