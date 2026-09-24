@@ -4,9 +4,9 @@
 
 สร้างแนวป้อม สั่งฮีโร่เข้าช่วย และรักษาฐานจากฝูง Tyranids ในเกม Tower Defense ธีม Warhammer 40,000 ที่ได้แรงบันดาลใจด้านการเล่นจาก Kingdom Rush เล่นผ่านเบราว์เซอร์ พร้อม UI ภาษาไทยและชื่อหน่วยรบภาษาอังกฤษ
 
-[เวอร์ชันบน Sites](https://bastion-last-stand.asdpoommail.chatgpt.site) · [คู่มือการเล่น](docs/GAMEPLAY.md) · [รายงานปัญหา](https://github.com/TanatipWa/bastion-last-stand/issues)
+[เล่นเกมบนเว็บ](https://bastion-last-stand.asdpoommail.chatgpt.site) · [คู่มือการเล่น](docs/GAMEPLAY.md) · [รายงานปัญหา](https://github.com/TanatipWa/bastion-last-stand/issues)
 
-> เวอร์ชันบน Sites จำกัดสิทธิ์การเข้าถึงไว้ที่บัญชีเจ้าของ ผู้ที่ไม่มีสิทธิ์สามารถ clone แล้วรันบนเครื่องตามขั้นตอนด้านล่าง
+> เปิดให้ทุกคนเล่นผ่านเบราว์เซอร์ได้ทันที หากต้องการรันหรือพัฒนาบนเครื่อง สามารถ clone แล้วทำตามขั้นตอนด้านล่าง
 
 ![แนวป้อมและการต่อสู้กับ Hive Tyrant ใน Ashen Wastes](docs/images/ashen-wastes.png)
 
